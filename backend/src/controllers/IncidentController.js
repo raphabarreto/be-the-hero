@@ -16,9 +16,8 @@ module.exports = {
         'ongs.email',
         'ongs.whatsapp',
         'ongs.city',
-        'ongs.uf'
+        'ongs.uf',
       ]);
-
 
     response.header('X-Total-Count', count['count(*)']);
 
@@ -55,5 +54,5 @@ module.exports = {
     await connection('incidents').where('id', id).delete();
 
     return response.status(204).send();
-  }
+  },
 };
