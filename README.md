@@ -46,19 +46,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
----
-
 ## 💻 Projeto
 
 Ainda em construção
 
----
-
 ## 🔖 Layout
 
 Ainda em construção
-
----
 
 ## 🤔 Como contribuir
 
@@ -69,7 +63,6 @@ Ainda em construção
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
----
 
 ## 🧾 Licença
 
