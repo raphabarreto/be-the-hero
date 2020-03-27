@@ -48,6 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [Jest](https://jestjs.io/)
+- [Celebrate](https://github.com/arb/celebrate)
 
 ## 💻 Projeto
 Projeto desenvolvido durante a <strong>Semana OmniStack</strong> que tem como objetivo conectar pessoas com vontade de ajudar que muitas vezes não tem tempo mas podem ajudar de uma forma monetária à ONGs.
