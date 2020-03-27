@@ -24,7 +24,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -45,14 +44,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [Jest](https://jestjs.io/)
 
 ## 💻 Projeto
+Projeto desenvolvido durante a <strong>Semana OmniStack</strong> que tem como objetivo conectar pessoas com vontade de ajudar que muitas vezes não tem tempo mas podem ajudar de uma forma monetária à ONGs.
 
-Ainda em construção
+### 🔨 Backend - API
 
-## 🔖 Layout
 
-Ainda em construção
+### 🌐 Frontend
+<h1 align="center">
+    <img alt="Be The Hero" title="#delicinha" src=".github/frontend.gif" />
+</h1>
+
+### 📱 Mobile
+<h1 align="center">
+    <img alt="Be The Hero" title="#delicinha" src=".github/mobile.gif" />
+</h1>
+
 
 ## 🤔 Como contribuir
 
@@ -70,4 +79,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Raphael Barreto
+Feito com 💗 by Raphael Barreto
