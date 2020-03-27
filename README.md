@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Projeto desenvolvido durante a <strong>Semana OmniStack</strong> que tem como objetivo conectar pessoas com vontade de ajudar que muitas vezes não tem tempo mas podem ajudar de uma forma monetária à ONGs.
 
-## 🔨 Backend - API
+## 🔨 Backend
 <h1 align="center">
 <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fraphabarreto%2Fsemana-omnistack-11%2Fmaster%2Fbackend%2FBeTheHero.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </h1>
