@@ -20,5 +20,13 @@ module.exports = {
     "camelcase": "off",
     "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
     "func-names": ["error", "never"]
-  }
+  },
+  overrides: [
+    {
+      "files": ["tests/*/*.spec.js"], // Or *.test.js
+      "rules": {
+        "no-undef": "off"
+      }
+    }
+  ],
 };
